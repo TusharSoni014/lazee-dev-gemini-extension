@@ -1,0 +1,12 @@
+{
+  "name": "lazee-dev-jobs",
+  "version": "1.0.0",
+  "description": "Search open tech jobs from company career pages by role, level, country, workplace, company and pay, with links to apply.",
+  "mcpServers": {
+    "lazee-dev-jobs": {
+      "httpUrl": "https://lazee.dev/mcp",
+      "timeout": 30000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
