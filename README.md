@@ -48,3 +48,4 @@ resumes or applications, and it never applies for you.
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/tusharsoni014-lazee-dev-gemini-extension-1is05j?v=680a6ddded65a8ca9f1d9eb26f4eb778)](https://m8ven.ai/mcp/tusharsoni014-lazee-dev-gemini-extension-1is05j?s=readme)
 [![M8ven Score](https://m8ven.ai/badge/mcp/tusharsoni014/lazee-dev-gemini-extension)](https://m8ven.ai/mcp/tusharsoni014/lazee-dev-gemini-extension?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/tusharsoni014-lazee-dev-gemini-extension-1is05j)](https://m8ven.ai/mcp/tusharsoni014-lazee-dev-gemini-extension-1is05j?s=readme)
